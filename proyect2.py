@@ -1,1 +1,1 @@
-print("Nueva funcion")
+print("funcion lista")
