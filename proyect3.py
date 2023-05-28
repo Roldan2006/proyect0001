@@ -1,0 +1,1 @@
+print("modo oscuro")
